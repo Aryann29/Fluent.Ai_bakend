@@ -19,8 +19,8 @@ FluentAI is an AI-powered English language tutor that helps users improve their 
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/Aryann29/fluentAI_backend.git
-cd fluentAI_backend
+git clone https://github.com/Aryann29/Fluent.Ai_bakend.git
+cd Fluent.Ai_bakend
 ```
 
 2. **Set Up Virtual Environment**
@@ -71,14 +71,3 @@ FluentAI: {
 ```
 
 To end the conversation, simply type `exit`.
-
-## Contributing
-
-Please feel free to submit a Pull Request.
-
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-If you encounter any issues or have questions, please open an issue in the GitHub repository.
